@@ -1,0 +1,1822 @@
+,region,year,happiness_rating
+0,South Asia,2008,3.723589897
+1,South Asia,2009,4.401778221
+2,South Asia,2010,4.75838089
+3,South Asia,2011,3.83171916
+4,South Asia,2012,3.782937527
+5,South Asia,2013,3.572100401
+6,South Asia,2014,3.130895615
+7,South Asia,2015,3.982854605
+8,South Asia,2016,4.220168591
+9,South Asia,2017,2.66171813
+10,South Asia,2018,2.694303274
+11,South Asia,2019,2.375091791
+12,Central and Eastern Europe,2007,4.634251595
+13,Central and Eastern Europe,2009,5.485469817999999
+14,Central and Eastern Europe,2010,5.268936634
+15,Central and Eastern Europe,2011,5.867421627000001
+16,Central and Eastern Europe,2012,5.5101242070000005
+17,Central and Eastern Europe,2013,4.550647736
+18,Central and Eastern Europe,2014,4.813763142
+19,Central and Eastern Europe,2015,4.606650829
+20,Central and Eastern Europe,2016,4.511100769
+21,Central and Eastern Europe,2017,4.639548302
+22,Central and Eastern Europe,2018,5.004402637
+23,Central and Eastern Europe,2019,4.995317936
+24,Middle East and North Africa,2010,5.46356678
+25,Middle East and North Africa,2011,5.317194462
+26,Middle East and North Africa,2012,5.604595661
+27,Middle East and North Africa,2014,6.354898453
+28,Middle East and North Africa,2016,5.340853691
+29,Middle East and North Africa,2017,5.248912334
+30,Middle East and North Africa,2018,5.043086052
+31,Middle East and North Africa,2019,4.744627476000001
+32,Sub-Saharan Africa,2011,5.589000702000001
+33,Sub-Saharan Africa,2012,4.360249996
+34,Sub-Saharan Africa,2013,3.937106848
+35,Sub-Saharan Africa,2014,3.794837952
+36,Latin America and Caribbeans,2006,6.312925339
+37,Latin America and Caribbeans,2007,6.073158264
+38,Latin America and Caribbeans,2008,5.961034298
+39,Latin America and Caribbeans,2009,6.424133301
+40,Latin America and Caribbeans,2010,6.441067219
+41,Latin America and Caribbeans,2011,6.775805472999999
+42,Latin America and Caribbeans,2012,6.468387127000001
+43,Latin America and Caribbeans,2013,6.582260132
+44,Latin America and Caribbeans,2014,6.671114445
+45,Latin America and Caribbeans,2015,6.69713068
+46,Latin America and Caribbeans,2016,6.427221297999999
+47,Latin America and Caribbeans,2017,6.039330006
+48,Latin America and Caribbeans,2018,5.792796612
+49,Latin America and Caribbeans,2019,6.085560799
+50,Commonwealth of Independent States,2006,4.289310932
+51,Commonwealth of Independent States,2007,4.881515503
+52,Commonwealth of Independent States,2008,4.651972294
+53,Commonwealth of Independent States,2009,4.177581787
+54,Commonwealth of Independent States,2010,4.3678112030000005
+55,Commonwealth of Independent States,2011,4.2604913710000005
+56,Commonwealth of Independent States,2012,4.319711685
+57,Commonwealth of Independent States,2013,4.277191162
+58,Commonwealth of Independent States,2014,4.453083038
+59,Commonwealth of Independent States,2015,4.34831953
+60,Commonwealth of Independent States,2016,4.325471878
+61,Commonwealth of Independent States,2017,4.287736416
+62,Commonwealth of Independent States,2018,5.062448502
+63,North America and ANZ,2007,7.285390854
+64,North America and ANZ,2008,7.253757477000001
+65,North America and ANZ,2010,7.450047016
+66,North America and ANZ,2011,7.405616283
+67,North America and ANZ,2012,7.195585727999999
+68,North America and ANZ,2013,7.3641691210000015
+69,North America and ANZ,2014,7.288550377000001
+70,North America and ANZ,2015,7.309060574
+71,North America and ANZ,2016,7.250080109
+72,North America and ANZ,2017,7.25703764
+73,North America and ANZ,2018,7.17699337
+74,North America and ANZ,2019,7.233994961
+75,Western Europe,2006,7.1222114560000005
+76,Western Europe,2008,7.180953979
+77,Western Europe,2010,7.302678585
+78,Western Europe,2011,7.470512867
+79,Western Europe,2012,7.400688647999999
+80,Western Europe,2013,7.498802662
+81,Western Europe,2014,6.949999809
+82,Western Europe,2015,7.07644701
+83,Western Europe,2016,7.048071861
+84,Western Europe,2017,7.293727875
+85,Western Europe,2018,7.396001816
+86,Western Europe,2019,7.195361137000001
+87,Commonwealth of Independent States,2006,4.727870941
+88,Commonwealth of Independent States,2007,4.56815958
+89,Commonwealth of Independent States,2008,4.817189217
+90,Commonwealth of Independent States,2009,4.573725224
+91,Commonwealth of Independent States,2010,4.218610764
+92,Commonwealth of Independent States,2011,4.680469513
+93,Commonwealth of Independent States,2012,4.910771847
+94,Commonwealth of Independent States,2013,5.4811782839999985
+95,Commonwealth of Independent States,2014,5.25153017
+96,Commonwealth of Independent States,2015,5.146774768999999
+97,Commonwealth of Independent States,2016,5.303894997
+98,Commonwealth of Independent States,2017,5.152279377
+99,Commonwealth of Independent States,2018,5.1679954530000005
+100,Commonwealth of Independent States,2019,5.173389435
+101,Middle East and North Africa,2009,5.7005233760000005
+102,Middle East and North Africa,2010,5.936869144
+103,Middle East and North Africa,2011,4.82397604
+104,Middle East and North Africa,2012,5.0271868710000005
+105,Middle East and North Africa,2013,6.689711094
+106,Middle East and North Africa,2014,6.165133953
+107,Middle East and North Africa,2015,6.00737524
+108,Middle East and North Africa,2016,6.169673443
+109,Middle East and North Africa,2017,6.227320671
+110,South Asia,2006,4.318909168
+111,South Asia,2007,4.607322216
+112,South Asia,2008,5.052278519
+113,South Asia,2009,5.08285141
+114,South Asia,2010,4.858481407
+115,South Asia,2011,4.985649109
+116,South Asia,2012,4.724443913
+117,South Asia,2013,4.660161018
+118,South Asia,2014,4.635564804
+119,South Asia,2015,4.633473873
+120,South Asia,2016,4.556140900000001
+121,South Asia,2017,4.309771061
+122,South Asia,2018,4.499217033
+123,South Asia,2019,5.114216805
+124,Commonwealth of Independent States,2006,5.657649994
+125,Commonwealth of Independent States,2007,5.6169762610000005
+126,Commonwealth of Independent States,2008,5.4633321760000015
+127,Commonwealth of Independent States,2009,5.56413126
+128,Commonwealth of Independent States,2010,5.525923252
+129,Commonwealth of Independent States,2011,5.2253079410000005
+130,Commonwealth of Independent States,2012,5.749043465
+131,Commonwealth of Independent States,2013,5.876466273999998
+132,Commonwealth of Independent States,2014,5.812400818
+133,Commonwealth of Independent States,2015,5.718907832999999
+134,Commonwealth of Independent States,2016,5.177899361000001
+135,Commonwealth of Independent States,2017,5.552915096
+136,Commonwealth of Independent States,2018,5.233769894
+137,Commonwealth of Independent States,2019,5.821453094
+138,Western Europe,2007,7.218839645
+139,Western Europe,2008,7.116590977
+140,Western Europe,2010,6.853514194
+141,Western Europe,2011,7.111363888
+142,Western Europe,2012,6.935122012999999
+143,Western Europe,2013,7.10366106
+144,Western Europe,2014,6.855329037000001
+145,Western Europe,2015,6.904219151
+146,Western Europe,2016,6.948936462000001
+147,Western Europe,2017,6.928347587999999
+148,Western Europe,2018,6.89217186
+149,Western Europe,2019,6.772138119
+150,Latin America and Caribbeans,2007,6.450644493
+151,Latin America and Caribbeans,2014,5.955646515
+152,Sub-Saharan Africa,2006,3.329801559
+153,Sub-Saharan Africa,2008,3.66713953
+154,Sub-Saharan Africa,2011,3.870279551
+155,Sub-Saharan Africa,2012,3.193468809
+156,Sub-Saharan Africa,2013,3.479412794
+157,Sub-Saharan Africa,2014,3.347419262
+158,Sub-Saharan Africa,2015,3.624664307
+159,Sub-Saharan Africa,2016,4.007357597
+160,Sub-Saharan Africa,2017,4.853180885
+161,Sub-Saharan Africa,2018,5.81982708
+162,Sub-Saharan Africa,2019,4.976360798
+163,South Asia,2013,5.5690917970000005
+164,South Asia,2014,4.938578129
+165,South Asia,2015,5.082128525
+166,Latin America and Caribbeans,2006,5.373986244
+167,Latin America and Caribbeans,2007,5.628419398999998
+168,Latin America and Caribbeans,2008,5.297872543
+169,Latin America and Caribbeans,2009,6.085579395
+170,Latin America and Caribbeans,2010,5.780620097999999
+171,Latin America and Caribbeans,2011,5.778874397
+172,Latin America and Caribbeans,2012,6.018894672
+173,Latin America and Caribbeans,2013,5.767428875
+174,Latin America and Caribbeans,2014,5.864798546
+175,Latin America and Caribbeans,2015,5.834329127999999
+176,Latin America and Caribbeans,2016,5.769723415
+177,Latin America and Caribbeans,2017,5.65055275
+178,Latin America and Caribbeans,2018,5.9157342910000015
+179,Latin America and Caribbeans,2019,5.67427063
+180,Central and Eastern Europe,2007,4.899806976
+181,Central and Eastern Europe,2009,4.963477135
+182,Central and Eastern Europe,2010,4.66851759
+183,Central and Eastern Europe,2011,4.994670868
+184,Central and Eastern Europe,2012,4.773144722
+185,Central and Eastern Europe,2013,5.123664379
+186,Central and Eastern Europe,2014,5.248954296
+187,Central and Eastern Europe,2015,5.1171779630000005
+188,Central and Eastern Europe,2016,5.180865288
+189,Central and Eastern Europe,2017,5.089902401
+190,Central and Eastern Europe,2018,5.8874011039999985
+191,Central and Eastern Europe,2019,6.01552248
+192,Sub-Saharan Africa,2006,4.739367008
+193,Sub-Saharan Africa,2008,5.451147079
+194,Sub-Saharan Africa,2010,3.553020239
+195,Sub-Saharan Africa,2011,3.519921064
+196,Sub-Saharan Africa,2012,4.835938931
+197,Sub-Saharan Africa,2013,4.128298759
+198,Sub-Saharan Africa,2014,4.031197071
+199,Sub-Saharan Africa,2015,3.761964798
+200,Sub-Saharan Africa,2016,3.4989366530000003
+201,Sub-Saharan Africa,2017,3.504881144
+202,Sub-Saharan Africa,2018,3.4613657
+203,Sub-Saharan Africa,2019,3.471084833
+204,Latin America and Caribbeans,2007,6.320672989
+205,Latin America and Caribbeans,2008,6.691424847
+206,Latin America and Caribbeans,2009,7.000831604
+207,Latin America and Caribbeans,2010,6.837331295
+208,Latin America and Caribbeans,2011,7.037816525
+209,Latin America and Caribbeans,2012,6.660003662
+210,Latin America and Caribbeans,2013,7.140282631
+211,Latin America and Caribbeans,2014,6.980998992999999
+212,Latin America and Caribbeans,2015,6.546896935
+213,Latin America and Caribbeans,2016,6.374817371000002
+214,Latin America and Caribbeans,2017,6.332929134
+215,Latin America and Caribbeans,2018,6.190921782999999
+216,Latin America and Caribbeans,2019,6.451148987000001
+217,Central and Eastern Europe,2007,3.843797922
+218,Central and Eastern Europe,2010,3.912276268
+219,Central and Eastern Europe,2011,3.875382423
+220,Central and Eastern Europe,2012,4.222297192
+221,Central and Eastern Europe,2013,3.993020535
+222,Central and Eastern Europe,2014,4.4384398460000005
+223,Central and Eastern Europe,2015,4.865401268
+224,Central and Eastern Europe,2016,4.837560654
+225,Central and Eastern Europe,2017,5.096901894
+226,Central and Eastern Europe,2018,5.098813534
+227,Central and Eastern Europe,2019,5.108438015
+228,Sub-Saharan Africa,2006,3.801490784
+229,Sub-Saharan Africa,2007,4.017130375
+230,Sub-Saharan Africa,2008,3.846438885
+231,Sub-Saharan Africa,2010,4.035560608
+232,Sub-Saharan Africa,2011,4.785367489
+233,Sub-Saharan Africa,2012,3.95500803
+234,Sub-Saharan Africa,2013,3.325949669
+235,Sub-Saharan Africa,2014,3.481347799
+236,Sub-Saharan Africa,2015,4.418930054
+237,Sub-Saharan Africa,2016,4.205634594
+238,Sub-Saharan Africa,2017,4.646891117
+239,Sub-Saharan Africa,2018,4.92723608
+240,Sub-Saharan Africa,2019,4.740892887
+241,Sub-Saharan Africa,2008,3.563227654
+242,Sub-Saharan Africa,2009,3.791680813
+243,Sub-Saharan Africa,2011,3.705894232
+244,Sub-Saharan Africa,2014,2.904535055
+245,Sub-Saharan Africa,2018,3.775283098
+246,Southeast Asia,2006,3.568744659
+247,Southeast Asia,2007,4.15597105
+248,Southeast Asia,2008,4.462163925
+249,Southeast Asia,2009,4.110625744
+250,Southeast Asia,2010,4.141072273
+251,Southeast Asia,2011,4.161225319
+252,Southeast Asia,2012,3.898706913
+253,Southeast Asia,2013,3.674466848
+254,Southeast Asia,2014,3.88330555
+255,Southeast Asia,2015,4.162164688
+256,Southeast Asia,2016,4.461259365
+257,Southeast Asia,2017,4.585842133
+258,Southeast Asia,2018,5.1218376160000005
+259,Southeast Asia,2019,4.998284817
+260,Sub-Saharan Africa,2006,3.851072073
+261,Sub-Saharan Africa,2007,4.349939346
+262,Sub-Saharan Africa,2008,4.291800499
+263,Sub-Saharan Africa,2009,4.741408348
+264,Sub-Saharan Africa,2010,4.554256916
+265,Sub-Saharan Africa,2011,4.433885098
+266,Sub-Saharan Africa,2012,4.2446341510000005
+267,Sub-Saharan Africa,2013,4.271038055
+268,Sub-Saharan Africa,2014,4.240441322
+269,Sub-Saharan Africa,2015,5.037964821
+270,Sub-Saharan Africa,2016,4.816232203999999
+271,Sub-Saharan Africa,2017,5.07405138
+272,Sub-Saharan Africa,2018,5.250737667
+273,Sub-Saharan Africa,2019,4.936737537
+274,North America and ANZ,2007,7.481752872
+275,North America and ANZ,2008,7.485603809
+276,North America and ANZ,2009,7.48782444
+277,North America and ANZ,2010,7.650346279
+278,North America and ANZ,2011,7.4260535239999985
+279,North America and ANZ,2012,7.415144444
+280,North America and ANZ,2013,7.593793869
+281,North America and ANZ,2014,7.30425787
+282,North America and ANZ,2015,7.412772655
+283,North America and ANZ,2016,7.244845867
+284,North America and ANZ,2017,7.414868355
+285,North America and ANZ,2018,7.175496578
+286,North America and ANZ,2019,7.1090765
+287,Sub-Saharan Africa,2007,4.160129547
+288,Sub-Saharan Africa,2010,3.5678925510000004
+289,Sub-Saharan Africa,2011,3.677826405
+290,Sub-Saharan Africa,2016,2.693061113
+291,Sub-Saharan Africa,2017,3.475862026
+292,Sub-Saharan Africa,2006,3.434800625
+293,Sub-Saharan Africa,2007,4.141326904
+294,Sub-Saharan Africa,2008,4.632468224
+295,Sub-Saharan Africa,2009,3.639445066
+296,Sub-Saharan Africa,2010,3.742871046
+297,Sub-Saharan Africa,2011,4.393482208
+298,Sub-Saharan Africa,2012,4.03297472
+299,Sub-Saharan Africa,2013,3.507663012
+300,Sub-Saharan Africa,2014,3.460182905
+301,Sub-Saharan Africa,2015,4.3226752280000005
+302,Sub-Saharan Africa,2016,4.029350281
+303,Sub-Saharan Africa,2017,4.558937073
+304,Sub-Saharan Africa,2018,4.486325264
+305,Sub-Saharan Africa,2019,4.250799179
+306,Latin America and Caribbeans,2006,6.0628519060000015
+307,Latin America and Caribbeans,2007,5.6979298589999985
+308,Latin America and Caribbeans,2008,5.789438725
+309,Latin America and Caribbeans,2009,6.493686199
+310,Latin America and Caribbeans,2010,6.63565588
+311,Latin America and Caribbeans,2011,6.526334763
+312,Latin America and Caribbeans,2012,6.599128723
+313,Latin America and Caribbeans,2013,6.74015379
+314,Latin America and Caribbeans,2014,6.844238281
+315,Latin America and Caribbeans,2015,6.532749653
+316,Latin America and Caribbeans,2016,6.579056262999999
+317,Latin America and Caribbeans,2017,6.3201193810000005
+318,Latin America and Caribbeans,2018,6.4362206460000015
+319,Latin America and Caribbeans,2019,5.942250252000001
+320,East Asia,2006,4.560495377
+321,East Asia,2007,4.86286211
+322,East Asia,2008,4.84629488
+323,East Asia,2009,4.454360962
+324,East Asia,2010,4.652736664
+325,East Asia,2011,5.037207603
+326,East Asia,2012,5.094917297
+327,East Asia,2013,5.2410902980000005
+328,East Asia,2014,5.1956191060000005
+329,East Asia,2015,5.303877831
+330,East Asia,2016,5.32495594
+331,East Asia,2017,5.099061489
+332,East Asia,2018,5.131433964
+333,East Asia,2019,5.144120216
+334,Latin America and Caribbeans,2006,6.024942875
+335,Latin America and Caribbeans,2007,6.138411522
+336,Latin America and Caribbeans,2008,6.168395042
+337,Latin America and Caribbeans,2009,6.271604537999999
+338,Latin America and Caribbeans,2010,6.40811348
+339,Latin America and Caribbeans,2011,6.463952541
+340,Latin America and Caribbeans,2012,6.374879837000001
+341,Latin America and Caribbeans,2013,6.606550694
+342,Latin America and Caribbeans,2014,6.44878912
+343,Latin America and Caribbeans,2015,6.387571812000001
+344,Latin America and Caribbeans,2016,6.233715057
+345,Latin America and Caribbeans,2017,6.157341957000001
+346,Latin America and Caribbeans,2018,5.983512402000001
+347,Latin America and Caribbeans,2019,6.350297928
+348,Sub-Saharan Africa,2009,3.47602725
+349,Sub-Saharan Africa,2010,3.81219101
+350,Sub-Saharan Africa,2011,3.838485956
+351,Sub-Saharan Africa,2012,3.955640316
+352,Sub-Saharan Africa,2018,3.972819567
+353,Sub-Saharan Africa,2019,4.608616352
+354,,2008,3.819792271
+355,,2011,4.509824276
+356,,2012,3.919341803
+357,,2013,3.954950571
+358,,2014,4.05601263
+359,,2015,4.6908302310000005
+360,,2016,4.119493484
+361,,2017,4.883991241
+362,,2018,5.490214347999999
+363,,2019,5.212622643
+364,,2009,3.983848572
+365,,2011,4.516963959
+366,,2012,4.63922739
+367,,2013,4.497477055
+368,,2014,4.414299965
+369,,2015,3.902741671
+370,,2016,4.521935463
+371,,2017,4.3110332489999985
+372,Latin America and Caribbeans,2006,7.082465172000001
+373,Latin America and Caribbeans,2007,7.432132244
+374,Latin America and Caribbeans,2008,6.850679874
+375,Latin America and Caribbeans,2009,7.614928722
+376,Latin America and Caribbeans,2010,7.271053791
+377,Latin America and Caribbeans,2011,7.228888512
+378,Latin America and Caribbeans,2012,7.272250175
+379,Latin America and Caribbeans,2013,7.158000469
+380,Latin America and Caribbeans,2014,7.247086048
+381,Latin America and Caribbeans,2015,6.854004383
+382,Latin America and Caribbeans,2016,7.135617732999999
+383,Latin America and Caribbeans,2017,7.22518158
+384,Latin America and Caribbeans,2018,7.141074657000001
+385,Latin America and Caribbeans,2019,6.997618675
+386,Central and Eastern Europe,2007,5.820907592999999
+387,Central and Eastern Europe,2009,5.433319569
+388,Central and Eastern Europe,2010,5.595575332999999
+389,Central and Eastern Europe,2011,5.385372639
+390,Central and Eastern Europe,2012,6.027634621
+391,Central and Eastern Europe,2013,5.885462761
+392,Central and Eastern Europe,2014,5.380692482000001
+393,Central and Eastern Europe,2015,5.205438137
+394,Central and Eastern Europe,2016,5.416875362000001
+395,Central and Eastern Europe,2017,5.343165873999999
+396,Central and Eastern Europe,2018,5.536271095
+397,Central and Eastern Europe,2019,5.6257438660000005
+398,Latin America and Caribbeans,2006,5.417868614
+399,Western Europe,2006,6.237958431
+400,Western Europe,2009,6.8334774970000005
+401,Western Europe,2010,6.386546135
+402,Western Europe,2011,6.689608574
+403,Western Europe,2012,6.180507183
+404,Western Europe,2013,5.438952446
+405,Western Europe,2014,5.627123833
+406,Western Europe,2015,5.439161301
+407,Western Europe,2016,5.794618607
+408,Western Europe,2017,6.062051296
+409,Western Europe,2018,6.276443005
+410,Western Europe,2019,6.136832714
+411,Central and Eastern Europe,2007,6.500194072999999
+412,Central and Eastern Europe,2010,6.249617577
+413,Central and Eastern Europe,2011,6.331490992999999
+414,Central and Eastern Europe,2012,6.3341493610000015
+415,Central and Eastern Europe,2013,6.697655677999999
+416,Central and Eastern Europe,2014,6.483729839
+417,Central and Eastern Europe,2015,6.608017445
+418,Central and Eastern Europe,2016,6.735627173999998
+419,Central and Eastern Europe,2017,6.789567947
+420,Central and Eastern Europe,2018,7.034165382
+421,Western Europe,2007,7.834233284
+422,Western Europe,2008,7.970891953
+423,Western Europe,2009,7.683358668999999
+424,Western Europe,2010,7.770515442000001
+425,Western Europe,2011,7.78823185
+426,Western Europe,2012,7.519909382000001
+427,Western Europe,2013,7.588606834
+428,Western Europe,2014,7.507559298999999
+429,Western Europe,2015,7.514424801
+430,Western Europe,2016,7.55778265
+431,Western Europe,2017,7.593702316
+432,Western Europe,2018,7.648785591
+433,Western Europe,2019,7.693003178
+434,Sub-Saharan Africa,2008,5.009330273
+435,Sub-Saharan Africa,2009,4.905925274
+436,Sub-Saharan Africa,2010,5.005810738
+437,Sub-Saharan Africa,2011,4.369193554
+438,Latin America and Caribbeans,2006,5.087967873
+439,Latin America and Caribbeans,2007,5.081305981
+440,Latin America and Caribbeans,2008,4.84230566
+441,Latin America and Caribbeans,2009,5.431613922
+442,Latin America and Caribbeans,2010,4.735021113999999
+443,Latin America and Caribbeans,2011,5.396535397
+444,Latin America and Caribbeans,2012,4.753311157
+445,Latin America and Caribbeans,2013,5.015515327
+446,Latin America and Caribbeans,2014,5.387331962999999
+447,Latin America and Caribbeans,2015,5.061862468999999
+448,Latin America and Caribbeans,2016,5.238698483
+449,Latin America and Caribbeans,2017,5.605202675
+450,Latin America and Caribbeans,2018,5.433215617999999
+451,Latin America and Caribbeans,2019,6.004237175
+452,Latin America and Caribbeans,2006,5.02419138
+453,Latin America and Caribbeans,2007,4.995875358999999
+454,Latin America and Caribbeans,2008,5.2965130810000005
+455,Latin America and Caribbeans,2009,6.021803379
+456,Latin America and Caribbeans,2010,5.838051319
+457,Latin America and Caribbeans,2011,5.795088291
+458,Latin America and Caribbeans,2012,5.960716248
+459,Latin America and Caribbeans,2013,6.019206047000001
+460,Latin America and Caribbeans,2014,5.945851802999999
+461,Latin America and Caribbeans,2015,5.964075089
+462,Latin America and Caribbeans,2016,6.115437507999999
+463,Latin America and Caribbeans,2017,5.839518547000001
+464,Latin America and Caribbeans,2018,6.128010272999999
+465,Latin America and Caribbeans,2019,5.809131145
+466,Middle East and North Africa,2007,5.540510654
+467,Middle East and North Africa,2008,4.631741047
+468,Middle East and North Africa,2009,5.066164494
+469,Middle East and North Africa,2010,4.668916225
+470,Middle East and North Africa,2011,4.174158573
+471,Middle East and North Africa,2012,4.204156876
+472,Middle East and North Africa,2013,3.558520317
+473,Middle East and North Africa,2014,4.885072708
+474,Middle East and North Africa,2015,4.7625384330000005
+475,Middle East and North Africa,2016,4.556740761
+476,Middle East and North Africa,2017,3.929344177
+477,Middle East and North Africa,2018,4.005450726
+478,Middle East and North Africa,2019,4.327831745
+479,Latin America and Caribbeans,2006,5.700929642
+480,Latin America and Caribbeans,2007,5.295535088
+481,Latin America and Caribbeans,2008,5.191493988
+482,Latin America and Caribbeans,2009,6.839087009
+483,Latin America and Caribbeans,2010,6.739911079
+484,Latin America and Caribbeans,2011,4.741294861
+485,Latin America and Caribbeans,2012,5.934371471
+486,Latin America and Caribbeans,2013,6.325063229
+487,Latin America and Caribbeans,2014,5.856523514
+488,Latin America and Caribbeans,2015,6.018496037
+489,Latin America and Caribbeans,2016,6.139824867000001
+490,Latin America and Caribbeans,2017,6.339318275
+491,Latin America and Caribbeans,2018,6.241199493
+492,Latin America and Caribbeans,2019,6.454820633
+493,Central and Eastern Europe,2006,5.371054649
+494,Central and Eastern Europe,2007,5.332044125
+495,Central and Eastern Europe,2008,5.451937675
+496,Central and Eastern Europe,2009,5.137738705
+497,Central and Eastern Europe,2011,5.486819744
+498,Central and Eastern Europe,2012,5.363927841000001
+499,Central and Eastern Europe,2013,5.367445946
+500,Central and Eastern Europe,2014,5.55598259
+501,Central and Eastern Europe,2015,5.628908634
+502,Central and Eastern Europe,2016,5.649675369
+503,Central and Eastern Europe,2017,5.938395977000001
+504,Central and Eastern Europe,2018,6.091302395
+505,Central and Eastern Europe,2019,6.034641266
+506,Sub-Saharan Africa,2012,4.561168671
+507,Sub-Saharan Africa,2013,4.44482708
+508,Sub-Saharan Africa,2014,4.506646633
+509,Sub-Saharan Africa,2015,4.573154926
+510,Sub-Saharan Africa,2016,4.297848701
+511,Sub-Saharan Africa,2017,4.180315495
+512,Sub-Saharan Africa,2018,4.379262447
+513,Sub-Saharan Africa,2019,4.099555016
+514,Western Europe,2006,7.672449112000001
+515,Western Europe,2008,7.67062664
+516,Western Europe,2010,7.393264294
+517,Western Europe,2011,7.3542251589999985
+518,Western Europe,2012,7.420209408
+519,Western Europe,2013,7.444635868
+520,Western Europe,2014,7.384571075
+521,Western Europe,2015,7.447925568
+522,Western Europe,2016,7.659843445
+523,Western Europe,2017,7.788251877
+524,Western Europe,2018,7.85810709
+525,Western Europe,2019,7.780347824
+526,Western Europe,2006,6.582700253
+527,Western Europe,2008,7.008064747000001
+528,Western Europe,2009,6.2834982870000005
+529,Western Europe,2010,6.797901154
+530,Western Europe,2011,6.959185122999999
+531,Western Europe,2012,6.649365425
+532,Western Europe,2013,6.66712141
+533,Western Europe,2014,6.466867924
+534,Western Europe,2015,6.357625007999999
+535,Western Europe,2016,6.475208759
+536,Western Europe,2017,6.635222435
+537,Western Europe,2018,6.665903567999999
+538,Western Europe,2019,6.689644337000001
+539,Sub-Saharan Africa,2011,4.255400658
+540,Sub-Saharan Africa,2012,3.97205925
+541,Sub-Saharan Africa,2013,3.800287008
+542,Sub-Saharan Africa,2014,3.918073177
+543,Sub-Saharan Africa,2015,4.66101265
+544,Sub-Saharan Africa,2016,4.831764221
+545,Sub-Saharan Africa,2017,4.782382965
+546,Sub-Saharan Africa,2018,4.783009052
+547,Sub-Saharan Africa,2019,4.914393425
+548,Sub-Saharan Africa,2017,4.117938995
+549,Sub-Saharan Africa,2018,4.922099113
+550,Sub-Saharan Africa,2019,5.163627148
+551,Commonwealth of Independent States,2006,3.675108433
+552,Commonwealth of Independent States,2007,3.707194567
+553,Commonwealth of Independent States,2008,4.15609026
+554,Commonwealth of Independent States,2009,3.800639153
+555,Commonwealth of Independent States,2010,4.101837158
+556,Commonwealth of Independent States,2011,4.2030305860000015
+557,Commonwealth of Independent States,2012,4.254445553
+558,Commonwealth of Independent States,2013,4.348920822
+559,Commonwealth of Independent States,2014,4.287508011
+560,Commonwealth of Independent States,2015,4.1219406130000005
+561,Commonwealth of Independent States,2016,4.448386192
+562,Commonwealth of Independent States,2017,4.45077467
+563,Commonwealth of Independent States,2018,4.659097195
+564,Commonwealth of Independent States,2019,4.89183569
+565,Western Europe,2007,6.4168195720000005
+566,Western Europe,2008,6.521790028
+567,Western Europe,2009,6.64149332
+568,Western Europe,2010,6.724531174
+569,Western Europe,2011,6.6213121410000015
+570,Western Europe,2012,6.7023620610000005
+571,Western Europe,2013,6.9651250839999985
+572,Western Europe,2014,6.984214306
+573,Western Europe,2015,7.037137508
+574,Western Europe,2016,6.873763084
+575,Western Europe,2017,7.074324608
+576,Western Europe,2018,7.118364334
+577,Western Europe,2019,7.035472392999999
+578,Sub-Saharan Africa,2006,4.535019875
+579,Sub-Saharan Africa,2007,5.220148087
+580,Sub-Saharan Africa,2008,4.965134621
+581,Sub-Saharan Africa,2009,4.197695732
+582,Sub-Saharan Africa,2010,4.606251717
+583,Sub-Saharan Africa,2011,5.608199596
+584,Sub-Saharan Africa,2012,5.057261944
+585,Sub-Saharan Africa,2013,4.965053082
+586,Sub-Saharan Africa,2014,3.860351086
+587,Sub-Saharan Africa,2015,3.985916138
+588,Sub-Saharan Africa,2016,4.514411449
+589,Sub-Saharan Africa,2017,5.4813108439999985
+590,Sub-Saharan Africa,2018,5.003693104
+591,Sub-Saharan Africa,2019,4.96680975
+592,Western Europe,2007,6.646961212000001
+593,Western Europe,2009,6.038574696
+594,Western Europe,2010,5.839558601
+595,Western Europe,2011,5.372039795
+596,Western Europe,2012,5.0963540080000005
+597,Western Europe,2013,4.720251083
+598,Western Europe,2014,4.75623703
+599,Western Europe,2015,5.622519016
+600,Western Europe,2016,5.302619457
+601,Western Europe,2017,5.14824152
+602,Western Europe,2018,5.40928936
+603,Western Europe,2019,5.952157497000001
+604,Latin America and Caribbeans,2006,5.9014291760000015
+605,Latin America and Caribbeans,2007,6.329581261
+606,Latin America and Caribbeans,2008,6.4144945139999985
+607,Latin America and Caribbeans,2009,6.451916217999999
+608,Latin America and Caribbeans,2010,6.289748669
+609,Latin America and Caribbeans,2011,5.743353844
+610,Latin America and Caribbeans,2012,5.855717182
+611,Latin America and Caribbeans,2013,5.984601498
+612,Latin America and Caribbeans,2014,6.536030769
+613,Latin America and Caribbeans,2015,6.464986801
+614,Latin America and Caribbeans,2016,6.358916282999999
+615,Latin America and Caribbeans,2017,6.325118542
+616,Latin America and Caribbeans,2018,6.626591682000001
+617,Latin America and Caribbeans,2019,6.262175083
+618,Sub-Saharan Africa,2011,4.044569492
+619,Sub-Saharan Africa,2012,3.651554823
+620,Sub-Saharan Africa,2013,3.901793003
+621,Sub-Saharan Africa,2014,3.4124825
+622,Sub-Saharan Africa,2015,3.504693508
+623,Sub-Saharan Africa,2016,3.602854729
+624,Sub-Saharan Africa,2017,4.873722553
+625,Sub-Saharan Africa,2018,5.25222683
+626,Sub-Saharan Africa,2019,4.76768446
+627,Latin America and Caribbeans,2007,5.992826462000001
+628,Latin America and Caribbeans,2006,3.754156113
+629,Latin America and Caribbeans,2008,3.846329212
+630,Latin America and Caribbeans,2010,3.76599884
+631,Latin America and Caribbeans,2011,4.844573975
+632,Latin America and Caribbeans,2012,4.413475037
+633,Latin America and Caribbeans,2013,4.62196207
+634,Latin America and Caribbeans,2014,3.888778448
+635,Latin America and Caribbeans,2015,3.569762468
+636,Latin America and Caribbeans,2016,3.352300167
+637,Latin America and Caribbeans,2017,3.823865652
+638,Latin America and Caribbeans,2018,3.614928007
+639,Latin America and Caribbeans,2006,5.396519661
+640,Latin America and Caribbeans,2007,5.09715414
+641,Latin America and Caribbeans,2008,5.420331001
+642,Latin America and Caribbeans,2009,6.033189297000001
+643,Latin America and Caribbeans,2010,5.8661313060000015
+644,Latin America and Caribbeans,2011,4.961031437
+645,Latin America and Caribbeans,2012,4.602218151000001
+646,Latin America and Caribbeans,2013,4.713358402
+647,Latin America and Caribbeans,2014,5.055726051000001
+648,Latin America and Caribbeans,2015,4.845436573
+649,Latin America and Caribbeans,2016,5.648154736
+650,Latin America and Caribbeans,2017,6.019985676
+651,Latin America and Caribbeans,2018,5.908423901
+652,Latin America and Caribbeans,2019,5.930051327
+653,East Asia,2006,5.511187077000001
+654,East Asia,2008,5.137261868
+655,East Asia,2009,5.397055626
+656,East Asia,2010,5.642834663
+657,East Asia,2011,5.474010944
+658,East Asia,2012,5.483764647999999
+659,East Asia,2014,5.458050728
+660,East Asia,2016,5.498420715
+661,East Asia,2017,5.362474918
+662,East Asia,2019,5.659317017
+663,Central and Eastern Europe,2007,4.953917027
+664,Central and Eastern Europe,2009,4.894600391
+665,Central and Eastern Europe,2010,4.725132465
+666,Central and Eastern Europe,2011,4.917602539
+667,Central and Eastern Europe,2012,4.683358192
+668,Central and Eastern Europe,2013,4.914466858
+669,Central and Eastern Europe,2014,5.18056345
+670,Central and Eastern Europe,2015,5.34438324
+671,Central and Eastern Europe,2016,5.448901652999999
+672,Central and Eastern Europe,2017,6.065038681
+673,Central and Eastern Europe,2018,5.935770988
+674,Central and Eastern Europe,2019,6.000259876
+675,Western Europe,2008,6.888284206
+676,Western Europe,2012,7.590660095
+677,Western Europe,2013,7.501394272000001
+678,Western Europe,2015,7.498070717
+679,Western Europe,2016,7.510034561
+680,Western Europe,2017,7.476213932
+681,Western Europe,2019,7.532504558999999
+682,South Asia,2006,5.348258972
+683,South Asia,2007,5.02679348
+684,South Asia,2008,5.145833015
+685,South Asia,2009,4.521517754
+686,South Asia,2010,4.989277363
+687,South Asia,2011,4.634871483
+688,South Asia,2012,4.720146656
+689,South Asia,2013,4.427788734
+690,South Asia,2014,4.424379349
+691,South Asia,2015,4.342079163
+692,South Asia,2016,4.179177284
+693,South Asia,2017,4.046111107
+694,South Asia,2018,3.818068743
+695,South Asia,2019,3.24876976
+696,Southeast Asia,2006,4.946978092
+697,Southeast Asia,2007,5.101213932
+698,Southeast Asia,2008,4.815309525
+699,Southeast Asia,2009,5.472361088
+700,Southeast Asia,2010,5.457299232
+701,Southeast Asia,2011,5.172608376
+702,Southeast Asia,2012,5.36777401
+703,Southeast Asia,2013,5.292237759
+704,Southeast Asia,2014,5.597375392999999
+705,Southeast Asia,2015,5.04279995
+706,Southeast Asia,2016,5.136325359
+707,Southeast Asia,2017,5.098401546
+708,Southeast Asia,2018,5.340295792
+709,Southeast Asia,2019,5.346512794
+710,Middle East and North Africa,2007,5.336371422
+711,Middle East and North Africa,2008,5.128988266
+712,Middle East and North Africa,2011,4.767507076
+713,Middle East and North Africa,2012,4.608927727
+714,Middle East and North Africa,2013,5.139579296
+715,Middle East and North Africa,2014,4.682224274
+716,Middle East and North Africa,2015,4.749955654
+717,Middle East and North Africa,2016,4.652730942
+718,Middle East and North Africa,2017,4.716783047
+719,Middle East and North Africa,2018,4.278117657
+720,Middle East and North Africa,2019,5.006145954
+721,Middle East and North Africa,2008,4.589844704
+722,Middle East and North Africa,2009,4.775316715
+723,Middle East and North Africa,2010,5.065462112
+724,Middle East and North Africa,2011,4.725366116
+725,Middle East and North Africa,2012,4.659508705
+726,Middle East and North Africa,2013,4.725017071
+727,Middle East and North Africa,2014,4.541502476000001
+728,Middle East and North Africa,2015,4.493377209
+729,Middle East and North Africa,2016,4.4125370980000005
+730,Middle East and North Africa,2017,4.462399006
+731,Middle East and North Africa,2018,5.099589825
+732,Western Europe,2006,7.144246578
+733,Western Europe,2008,7.568029881
+734,Western Europe,2009,7.045911312
+735,Western Europe,2010,7.257389545
+736,Western Europe,2011,7.006904125
+737,Western Europe,2012,6.964645386
+738,Western Europe,2013,6.760085106
+739,Western Europe,2014,7.018379211
+740,Western Europe,2015,6.830125332000001
+741,Western Europe,2016,7.04073143
+742,Western Europe,2017,7.060155392
+743,Western Europe,2018,6.962335587
+744,Western Europe,2019,7.254841327999999
+745,Middle East and North Africa,2006,7.173417091
+746,Middle East and North Africa,2007,6.841114997999999
+747,Middle East and North Africa,2008,7.261261462999999
+748,Middle East and North Africa,2009,7.352979182999999
+749,Middle East and North Africa,2010,7.358916282999999
+750,Middle East and North Africa,2011,7.433147907
+751,Middle East and North Africa,2012,7.110854626
+752,Middle East and North Africa,2013,7.320563316
+753,Middle East and North Africa,2014,7.400570393
+754,Middle East and North Africa,2015,7.07941103
+755,Middle East and North Africa,2016,7.159010887000001
+756,Middle East and North Africa,2017,7.331036091
+757,Middle East and North Africa,2018,6.92717886
+758,Western Europe,2007,6.574412346
+759,Western Europe,2008,6.7797741889999985
+760,Western Europe,2009,6.3338003160000005
+761,Western Europe,2010,6.354238033
+762,Western Europe,2011,6.057086468
+763,Western Europe,2012,5.839313984
+764,Western Europe,2013,6.009373665
+765,Western Europe,2014,6.026585102
+766,Western Europe,2015,5.847683907
+767,Western Europe,2016,5.95452404
+768,Western Europe,2017,6.198870182
+769,Western Europe,2018,6.516526699
+770,Western Europe,2019,6.445416927
+771,Sub-Saharan Africa,2009,4.197181702
+772,Sub-Saharan Africa,2013,3.739365578
+773,Sub-Saharan Africa,2014,3.570368528
+774,Sub-Saharan Africa,2015,4.445038795
+775,Sub-Saharan Africa,2016,4.542545795
+776,Sub-Saharan Africa,2017,5.037734985
+777,Sub-Saharan Africa,2018,5.26837492
+778,Sub-Saharan Africa,2019,5.3920121189999985
+779,Latin America and Caribbeans,2006,6.207881927000001
+780,Latin America and Caribbeans,2011,5.374446392
+781,Latin America and Caribbeans,2013,5.708886623
+782,Latin America and Caribbeans,2014,5.310538769
+783,Latin America and Caribbeans,2017,5.889759064
+784,East Asia,2007,6.238197802999999
+785,East Asia,2008,5.91067934
+786,East Asia,2009,5.844999313
+787,East Asia,2010,6.056752682000001
+788,East Asia,2011,6.2627935410000015
+789,East Asia,2012,5.968216419
+790,East Asia,2013,5.959361553
+791,East Asia,2014,5.922620772999999
+792,East Asia,2015,5.879684448
+793,East Asia,2016,5.954650879
+794,East Asia,2017,5.910676479
+795,East Asia,2018,5.793575287
+796,East Asia,2019,5.908039092999999
+797,Middle East and North Africa,2007,5.59805727
+798,Middle East and North Africa,2008,4.930058002
+799,Middle East and North Africa,2009,5.999859333
+800,Middle East and North Africa,2010,5.5699424739999985
+801,Middle East and North Africa,2011,5.539327621
+802,Middle East and North Africa,2012,5.131996155
+803,Middle East and North Africa,2013,5.171952724
+804,Middle East and North Africa,2014,5.333021641
+805,Middle East and North Africa,2015,5.404593468
+806,Middle East and North Africa,2016,5.27128458
+807,Middle East and North Africa,2017,4.808082581
+808,Middle East and North Africa,2018,4.638933659
+809,Middle East and North Africa,2019,4.452548027
+810,Commonwealth of Independent States,2006,5.475948334
+811,Commonwealth of Independent States,2007,5.718553543
+812,Commonwealth of Independent States,2008,5.886419772999999
+813,Commonwealth of Independent States,2009,5.382563114
+814,Commonwealth of Independent States,2010,5.514286518
+815,Commonwealth of Independent States,2011,5.735662937000001
+816,Commonwealth of Independent States,2012,5.759469509
+817,Commonwealth of Independent States,2013,5.835483074
+818,Commonwealth of Independent States,2014,5.970097542
+819,Commonwealth of Independent States,2015,5.949995041
+820,Commonwealth of Independent States,2016,5.533551693
+821,Commonwealth of Independent States,2017,5.882351398
+822,Commonwealth of Independent States,2018,6.00763607
+823,Commonwealth of Independent States,2019,6.272268295
+824,Sub-Saharan Africa,2006,4.223234177
+825,Sub-Saharan Africa,2007,4.575657845
+826,Sub-Saharan Africa,2008,4.015274525
+827,Sub-Saharan Africa,2009,4.2704348560000005
+828,Sub-Saharan Africa,2010,4.255859375
+829,Sub-Saharan Africa,2011,4.405310154
+830,Sub-Saharan Africa,2012,4.547335148
+831,Sub-Saharan Africa,2013,3.795383215
+832,Sub-Saharan Africa,2014,4.904579639
+833,Sub-Saharan Africa,2015,4.357617855
+834,Sub-Saharan Africa,2016,4.396127701
+835,Sub-Saharan Africa,2017,4.475654125
+836,Sub-Saharan Africa,2018,4.655702591
+837,Sub-Saharan Africa,2019,4.618850231000001
+838,Central and Eastern Europe,2007,5.103906155
+839,Central and Eastern Europe,2008,5.521659851
+840,Central and Eastern Europe,2009,5.891432762000001
+841,Central and Eastern Europe,2010,5.17660141
+842,Central and Eastern Europe,2011,4.859501839
+843,Central and Eastern Europe,2012,5.639588356
+844,Central and Eastern Europe,2013,6.125758171
+845,Central and Eastern Europe,2014,5.000375271
+846,Central and Eastern Europe,2015,5.077460766000001
+847,Central and Eastern Europe,2016,5.759412289
+848,Central and Eastern Europe,2017,6.149199962999999
+849,Central and Eastern Europe,2018,6.391825676
+850,Central and Eastern Europe,2019,6.4251441960000015
+851,Middle East and North Africa,2006,6.075547218
+852,Middle East and North Africa,2009,6.5852460860000015
+853,Middle East and North Africa,2010,6.798151016
+854,Middle East and North Africa,2011,6.377699375
+855,Middle East and North Africa,2012,6.221094608
+856,Middle East and North Africa,2013,6.480031013
+857,Middle East and North Africa,2014,6.180138587999999
+858,Middle East and North Africa,2015,6.1460318570000005
+859,Middle East and North Africa,2016,5.947194576
+860,Middle East and North Africa,2017,6.093905449
+861,Middle East and North Africa,2019,6.106119633
+862,Commonwealth of Independent States,2006,4.641398907
+863,Commonwealth of Independent States,2007,4.697761536000001
+864,Commonwealth of Independent States,2008,4.736588001
+865,Commonwealth of Independent States,2009,5.06905365
+866,Commonwealth of Independent States,2010,4.996410847
+867,Commonwealth of Independent States,2011,4.921049118
+868,Commonwealth of Independent States,2012,5.207785606
+869,Commonwealth of Independent States,2013,5.40242672
+870,Commonwealth of Independent States,2014,5.252192974
+871,Commonwealth of Independent States,2015,4.905375957
+872,Commonwealth of Independent States,2016,4.856534003999999
+873,Commonwealth of Independent States,2017,5.629536629
+874,Commonwealth of Independent States,2018,5.297383308
+875,Commonwealth of Independent States,2019,5.685220717999999
+876,Southeast Asia,2006,5.0762257580000005
+877,Southeast Asia,2007,5.363854885
+878,Southeast Asia,2008,5.044098854
+879,Southeast Asia,2011,4.703749657
+880,Southeast Asia,2012,4.876084805
+881,Southeast Asia,2017,4.623140812
+882,Southeast Asia,2018,4.85940218
+883,Southeast Asia,2019,5.196856022
+884,Central and Eastern Europe,2006,4.70950222
+885,Central and Eastern Europe,2007,4.666971684
+886,Central and Eastern Europe,2008,5.145375252
+887,Central and Eastern Europe,2009,4.668910503
+888,Central and Eastern Europe,2011,4.966811657
+889,Central and Eastern Europe,2012,5.125025272
+890,Central and Eastern Europe,2013,5.069770336
+891,Central and Eastern Europe,2014,5.729115486
+892,Central and Eastern Europe,2015,5.880597591
+893,Central and Eastern Europe,2016,5.940446377000001
+894,Central and Eastern Europe,2017,5.977817535
+895,Central and Eastern Europe,2018,5.901154041
+896,Central and Eastern Europe,2019,5.969753742000001
+897,Middle East and North Africa,2006,4.653103828
+898,Middle East and North Africa,2008,4.594851017
+899,Middle East and North Africa,2009,5.205998898
+900,Middle East and North Africa,2010,5.031899452
+901,Middle East and North Africa,2011,5.187571526
+902,Middle East and North Africa,2012,4.572566986
+903,Middle East and North Africa,2013,4.983288765
+904,Middle East and North Africa,2014,5.233025551
+905,Middle East and North Africa,2015,5.171971321
+906,Middle East and North Africa,2016,5.27072382
+907,Middle East and North Africa,2017,5.153989792
+908,Middle East and North Africa,2018,5.167186737
+909,Middle East and North Africa,2019,4.024219513
+910,Sub-Saharan Africa,2011,4.89751482
+911,Sub-Saharan Africa,2016,3.808204889
+912,Sub-Saharan Africa,2017,3.795300722
+913,Sub-Saharan Africa,2019,3.5117805
+914,Sub-Saharan Africa,2007,3.701401234
+915,Sub-Saharan Africa,2008,4.2213540080000005
+916,Sub-Saharan Africa,2010,4.196063042
+917,Sub-Saharan Africa,2014,4.571419239
+918,Sub-Saharan Africa,2015,2.701591253
+919,Sub-Saharan Africa,2016,3.354676008
+920,Sub-Saharan Africa,2017,4.424490929
+921,Sub-Saharan Africa,2018,4.134852886
+922,Sub-Saharan Africa,2019,5.121460915
+923,Middle East and North Africa,2012,5.754394054
+924,Middle East and North Africa,2015,5.615404606
+925,Middle East and North Africa,2016,5.43358326
+926,Middle East and North Africa,2017,5.646852493
+927,Middle East and North Africa,2018,5.493977547
+928,Middle East and North Africa,2019,5.33022213
+929,Central and Eastern Europe,2006,5.954442977999999
+930,Central and Eastern Europe,2007,5.80828476
+931,Central and Eastern Europe,2008,5.553925991
+932,Central and Eastern Europe,2009,5.466920853
+933,Central and Eastern Europe,2010,5.065824986
+934,Central and Eastern Europe,2011,5.43243742
+935,Central and Eastern Europe,2012,5.771037102
+936,Central and Eastern Europe,2013,5.595689297000001
+937,Central and Eastern Europe,2014,6.125723839
+938,Central and Eastern Europe,2015,5.711378098
+939,Central and Eastern Europe,2016,5.865552425
+940,Central and Eastern Europe,2017,6.272940636
+941,Central and Eastern Europe,2018,6.308878899
+942,Central and Eastern Europe,2019,6.064097881
+943,Western Europe,2009,6.957920074
+944,Western Europe,2010,7.097251892
+945,Western Europe,2011,7.101400375
+946,Western Europe,2012,6.964097023
+947,Western Europe,2013,7.130809307000001
+948,Western Europe,2014,6.89112711
+949,Western Europe,2015,6.701571465
+950,Western Europe,2016,6.967340946
+951,Western Europe,2017,7.061380862999999
+952,Western Europe,2018,7.242630958999999
+953,Western Europe,2019,7.4040155410000015
+954,Central and Eastern Europe,2007,4.493598461
+955,Central and Eastern Europe,2009,4.428021908
+956,Central and Eastern Europe,2010,4.180202007
+957,Central and Eastern Europe,2011,4.898180008
+958,Central and Eastern Europe,2012,4.639647484
+959,Central and Eastern Europe,2013,5.186190605
+960,Central and Eastern Europe,2014,5.203825951000001
+961,Central and Eastern Europe,2015,4.975589752
+962,Central and Eastern Europe,2016,5.34574604
+963,Central and Eastern Europe,2017,5.233866692
+964,Central and Eastern Europe,2018,5.239834785
+965,Central and Eastern Europe,2019,5.015485287
+966,Sub-Saharan Africa,2006,3.979751348
+967,Sub-Saharan Africa,2008,4.640079021
+968,Sub-Saharan Africa,2011,4.381415367
+969,Sub-Saharan Africa,2012,3.550609589
+970,Sub-Saharan Africa,2013,3.815607071
+971,Sub-Saharan Africa,2014,3.675626993
+972,Sub-Saharan Africa,2015,3.592514038
+973,Sub-Saharan Africa,2016,3.663085938
+974,Sub-Saharan Africa,2017,4.0786204339999985
+975,Sub-Saharan Africa,2018,4.070586681
+976,Sub-Saharan Africa,2019,4.339087486
+977,Sub-Saharan Africa,2006,3.829868078
+978,Sub-Saharan Africa,2007,4.89103651
+979,Sub-Saharan Africa,2009,5.148239613
+980,Sub-Saharan Africa,2011,3.946062565
+981,Sub-Saharan Africa,2012,4.279269695
+982,Sub-Saharan Africa,2013,4.035084248
+983,Sub-Saharan Africa,2014,4.563080311
+984,Sub-Saharan Africa,2015,3.86763835
+985,Sub-Saharan Africa,2016,3.4764926430000003
+986,Sub-Saharan Africa,2017,3.416862965
+987,Sub-Saharan Africa,2018,3.334633589
+988,Sub-Saharan Africa,2019,3.869123697
+989,Southeast Asia,2006,6.011716842999999
+990,Southeast Asia,2007,6.238904476
+991,Southeast Asia,2008,5.806781769
+992,Southeast Asia,2009,5.384701729
+993,Southeast Asia,2010,5.580281734
+994,Southeast Asia,2011,5.786367416
+995,Southeast Asia,2012,5.914283752
+996,Southeast Asia,2013,5.770199776
+997,Southeast Asia,2014,5.9629216189999985
+998,Southeast Asia,2015,6.322121143
+999,Southeast Asia,2018,5.338817596
+1000,Southeast Asia,2019,5.427954197
+1001,South Asia,2018,5.197574615
+1002,Sub-Saharan Africa,2006,4.014075756
+1003,Sub-Saharan Africa,2008,4.1146640780000014
+1004,Sub-Saharan Africa,2009,3.976598501
+1005,Sub-Saharan Africa,2010,3.762305021
+1006,Sub-Saharan Africa,2011,4.666832924
+1007,Sub-Saharan Africa,2012,4.313016891
+1008,Sub-Saharan Africa,2013,3.676277161
+1009,Sub-Saharan Africa,2014,3.974714279
+1010,Sub-Saharan Africa,2015,4.582098483999999
+1011,Sub-Saharan Africa,2016,4.016027927
+1012,Sub-Saharan Africa,2017,4.741850376
+1013,Sub-Saharan Africa,2018,4.415729523
+1014,Sub-Saharan Africa,2019,4.98799181
+1015,Western Europe,2009,6.32763958
+1016,Western Europe,2010,5.77387476
+1017,Western Europe,2011,6.154718399
+1018,Western Europe,2012,5.962872028
+1019,Western Europe,2013,6.379924774
+1020,Western Europe,2014,6.45211792
+1021,Western Europe,2015,6.61339426
+1022,Western Europe,2016,6.590842247
+1023,Western Europe,2017,6.675665855
+1024,Western Europe,2018,6.909710884
+1025,Western Europe,2019,6.73297739
+1026,Sub-Saharan Africa,2007,4.1490430830000005
+1027,Sub-Saharan Africa,2008,4.248075008
+1028,Sub-Saharan Africa,2009,4.500431538
+1029,Sub-Saharan Africa,2010,4.772306919
+1030,Sub-Saharan Africa,2011,4.784804343999999
+1031,Sub-Saharan Africa,2012,4.673203945
+1032,Sub-Saharan Africa,2013,4.199015141
+1033,Sub-Saharan Africa,2014,4.482805252
+1034,Sub-Saharan Africa,2015,3.922664165
+1035,Sub-Saharan Africa,2016,4.472149372
+1036,Sub-Saharan Africa,2017,4.678159714
+1037,Sub-Saharan Africa,2018,4.313615322
+1038,Sub-Saharan Africa,2019,4.152619362
+1039,Sub-Saharan Africa,2011,5.477073193
+1040,Sub-Saharan Africa,2014,5.6477799420000006
+1041,Sub-Saharan Africa,2016,5.6100034710000015
+1042,Sub-Saharan Africa,2017,6.174117565
+1043,Sub-Saharan Africa,2018,5.88174057
+1044,Sub-Saharan Africa,2019,6.2411651610000005
+1045,Latin America and Caribbeans,2007,6.525378227000001
+1046,Latin America and Caribbeans,2008,6.829036236
+1047,Latin America and Caribbeans,2009,6.962819099
+1048,Latin America and Caribbeans,2010,6.802388668
+1049,Latin America and Caribbeans,2011,6.909515381
+1050,Latin America and Caribbeans,2012,7.320185184
+1051,Latin America and Caribbeans,2013,7.442546367999999
+1052,Latin America and Caribbeans,2014,6.679831028
+1053,Latin America and Caribbeans,2015,6.236287117000001
+1054,Latin America and Caribbeans,2016,6.824172974
+1055,Latin America and Caribbeans,2017,6.410299301
+1056,Latin America and Caribbeans,2018,6.5495786670000005
+1057,Latin America and Caribbeans,2019,6.431945324
+1058,Commonwealth of Independent States,2006,5.102071285
+1059,Commonwealth of Independent States,2007,4.774918079
+1060,Commonwealth of Independent States,2008,5.502756119
+1061,Commonwealth of Independent States,2009,5.554374218
+1062,Commonwealth of Independent States,2010,5.589736462
+1063,Commonwealth of Independent States,2011,5.792262554
+1064,Commonwealth of Independent States,2012,5.995712757000001
+1065,Commonwealth of Independent States,2013,5.75605917
+1066,Commonwealth of Independent States,2014,5.917058468
+1067,Commonwealth of Independent States,2015,6.0174722670000005
+1068,Commonwealth of Independent States,2016,5.577784061
+1069,Commonwealth of Independent States,2017,5.325530529
+1070,Commonwealth of Independent States,2018,5.682277203
+1071,Commonwealth of Independent States,2019,5.803450584
+1072,East Asia,2007,4.609059334
+1073,East Asia,2008,4.493010044
+1074,East Asia,2010,4.585523605
+1075,East Asia,2011,5.031173706000001
+1076,East Asia,2012,4.885150433
+1077,East Asia,2013,4.912928104
+1078,East Asia,2014,4.824834824
+1079,East Asia,2015,4.982719898
+1080,East Asia,2016,5.056999683
+1081,East Asia,2017,5.333850384
+1082,East Asia,2018,5.464622974
+1083,East Asia,2019,5.562905312000001
+1084,Central and Eastern Europe,2007,5.196315289
+1085,Central and Eastern Europe,2009,4.8010602
+1086,Central and Eastern Europe,2010,5.455030441
+1087,Central and Eastern Europe,2011,5.223116875
+1088,Central and Eastern Europe,2012,5.218724251
+1089,Central and Eastern Europe,2013,5.074341774
+1090,Central and Eastern Europe,2014,5.282720566
+1091,Central and Eastern Europe,2015,5.124921322
+1092,Central and Eastern Europe,2016,5.3040661810000005
+1093,Central and Eastern Europe,2017,5.614798546
+1094,Central and Eastern Europe,2018,5.650189877000001
+1095,Central and Eastern Europe,2019,5.3860249520000005
+1096,Middle East and North Africa,2010,4.383247375
+1097,Middle East and North Africa,2011,5.084972858
+1098,Middle East and North Africa,2012,4.969656467
+1099,Middle East and North Africa,2013,5.142160416
+1100,Middle East and North Africa,2015,5.163156986000001
+1101,Middle East and North Africa,2016,5.38630724
+1102,Middle East and North Africa,2017,5.312482834
+1103,Middle East and North Africa,2018,4.896791935
+1104,Middle East and North Africa,2019,5.056751728
+1105,Sub-Saharan Africa,2006,4.594879627
+1106,Sub-Saharan Africa,2007,4.832634926
+1107,Sub-Saharan Africa,2008,4.65358305
+1108,Sub-Saharan Africa,2011,4.971111774
+1109,Sub-Saharan Africa,2015,4.549767494
+1110,Sub-Saharan Africa,2017,4.279863358
+1111,Sub-Saharan Africa,2018,4.653713703
+1112,Sub-Saharan Africa,2019,4.932132721
+1113,Southeast Asia,2012,4.438939571000001
+1114,Southeast Asia,2013,4.1756706239999986
+1115,Southeast Asia,2014,4.786247253
+1116,Southeast Asia,2015,4.2238464360000005
+1117,Southeast Asia,2016,4.623119831
+1118,Southeast Asia,2017,4.1543416980000005
+1119,Southeast Asia,2018,4.410633087
+1120,Southeast Asia,2019,4.43423748
+1121,Sub-Saharan Africa,2007,4.885587215
+1122,Sub-Saharan Africa,2014,4.573991298999999
+1123,Sub-Saharan Africa,2017,4.441306114
+1124,Sub-Saharan Africa,2018,4.834087848999999
+1125,Sub-Saharan Africa,2019,4.435811043
+1126,South Asia,2006,4.566594601
+1127,South Asia,2007,4.74828434
+1128,South Asia,2008,4.440526485
+1129,South Asia,2009,4.91686821
+1130,South Asia,2010,4.349675179
+1131,South Asia,2011,3.809444666
+1132,South Asia,2012,4.233244896
+1133,South Asia,2013,4.6045765880000005
+1134,South Asia,2014,4.975014687
+1135,South Asia,2015,4.812436581
+1136,South Asia,2016,5.099539757
+1137,South Asia,2017,4.736692429
+1138,South Asia,2018,4.910086632
+1139,South Asia,2019,5.448724747000001
+1140,Western Europe,2007,7.451879501
+1141,Western Europe,2008,7.631011963
+1142,Western Europe,2010,7.501875877000001
+1143,Western Europe,2011,7.5637979510000015
+1144,Western Europe,2012,7.470715522999999
+1145,Western Europe,2013,7.406550407
+1146,Western Europe,2014,7.32118845
+1147,Western Europe,2015,7.3244371410000015
+1148,Western Europe,2016,7.540877342000001
+1149,Western Europe,2017,7.458965302
+1150,Western Europe,2018,7.463097095
+1151,Western Europe,2019,7.42526865
+1152,North America and ANZ,2006,7.305014132999999
+1153,North America and ANZ,2007,7.604173182999999
+1154,North America and ANZ,2008,7.38117075
+1155,North America and ANZ,2010,7.223756312999999
+1156,North America and ANZ,2011,7.190638065
+1157,North America and ANZ,2012,7.2496299739999985
+1158,North America and ANZ,2013,7.280151844
+1159,North America and ANZ,2014,7.305892467
+1160,North America and ANZ,2015,7.418120861
+1161,North America and ANZ,2016,7.225687981
+1162,North America and ANZ,2017,7.32718277
+1163,North America and ANZ,2018,7.370285987999999
+1164,North America and ANZ,2019,7.205174446
+1165,Latin America and Caribbeans,2006,4.460158348
+1166,Latin America and Caribbeans,2007,4.944090843
+1167,Latin America and Caribbeans,2008,5.103827477
+1168,Latin America and Caribbeans,2009,5.352804661
+1169,Latin America and Caribbeans,2010,5.68669939
+1170,Latin America and Caribbeans,2011,5.3857054710000005
+1171,Latin America and Caribbeans,2012,5.448006153
+1172,Latin America and Caribbeans,2013,5.772274971
+1173,Latin America and Caribbeans,2014,6.2752666470000005
+1174,Latin America and Caribbeans,2015,5.924112797
+1175,Latin America and Caribbeans,2016,6.012739657999999
+1176,Latin America and Caribbeans,2017,6.476356506
+1177,Latin America and Caribbeans,2018,5.81895256
+1178,Latin America and Caribbeans,2019,6.112545012999999
+1179,Sub-Saharan Africa,2006,3.736951828
+1180,Sub-Saharan Africa,2007,4.277402401
+1181,Sub-Saharan Africa,2008,4.235657215
+1182,Sub-Saharan Africa,2009,4.267169952
+1183,Sub-Saharan Africa,2010,4.101016045
+1184,Sub-Saharan Africa,2011,4.555829525
+1185,Sub-Saharan Africa,2012,3.798088312
+1186,Sub-Saharan Africa,2013,3.716329813
+1187,Sub-Saharan Africa,2014,4.180943489
+1188,Sub-Saharan Africa,2015,3.671453714
+1189,Sub-Saharan Africa,2016,4.234645844
+1190,Sub-Saharan Africa,2017,4.615673542
+1191,Sub-Saharan Africa,2018,5.164007187
+1192,Sub-Saharan Africa,2019,5.0035443310000005
+1193,Sub-Saharan Africa,2006,4.709745884
+1194,Sub-Saharan Africa,2007,4.8904194830000005
+1195,Sub-Saharan Africa,2008,4.938560486
+1196,Sub-Saharan Africa,2009,4.980220318
+1197,Sub-Saharan Africa,2010,4.760275841
+1198,Sub-Saharan Africa,2012,5.492954254
+1199,Sub-Saharan Africa,2013,4.81786871
+1200,Sub-Saharan Africa,2015,4.932914734
+1201,Sub-Saharan Africa,2016,5.219567776
+1202,Sub-Saharan Africa,2017,5.321928024
+1203,Sub-Saharan Africa,2018,5.252288342
+1204,Sub-Saharan Africa,2019,4.356419086
+1205,Western Europe,2012,5.463305472999999
+1206,Western Europe,2013,5.566802502000001
+1207,Western Europe,2014,5.785978794
+1208,Western Europe,2015,5.842550277999999
+1209,Western Europe,2016,5.827127934
+1210,Western Europe,2018,5.608056068
+1211,Western Europe,2019,5.4666152000000015
+1212,Western Europe,2006,7.415682316
+1213,Western Europe,2008,7.632287502
+1214,Western Europe,2012,7.678277016
+1215,Western Europe,2014,7.444470882
+1216,Western Europe,2015,7.603433609
+1217,Western Europe,2016,7.5963315960000015
+1218,Western Europe,2017,7.578744887999999
+1219,Western Europe,2018,7.444262028
+1220,Western Europe,2019,7.442139626
+1221,Middle East and North Africa,2011,6.852982044
+1222,South Asia,2007,5.6714606289999985
+1223,South Asia,2008,4.413918972
+1224,South Asia,2009,5.208146572
+1225,South Asia,2010,5.786132812999999
+1226,South Asia,2011,5.267186165
+1227,South Asia,2012,5.131565094
+1228,South Asia,2013,5.138082504
+1229,South Asia,2014,5.435657977999999
+1230,South Asia,2015,4.823194981
+1231,South Asia,2016,5.5485081670000005
+1232,South Asia,2017,5.830870628
+1233,South Asia,2018,5.471553802000001
+1234,Middle East and North Africa,2006,4.716387749
+1235,Middle East and North Africa,2007,4.151053905
+1236,Middle East and North Africa,2008,4.3856034280000005
+1237,Middle East and North Africa,2009,4.470191479
+1238,Middle East and North Africa,2010,4.702603817
+1239,Middle East and North Africa,2011,4.751219749
+1240,Middle East and North Africa,2012,4.646608353
+1241,Middle East and North Africa,2013,4.844027996
+1242,Middle East and North Africa,2014,4.721938133
+1243,Middle East and North Africa,2015,4.695239067
+1244,Middle East and North Africa,2016,4.906618118
+1245,Middle East and North Africa,2017,4.62813282
+1246,Middle East and North Africa,2018,4.5539217
+1247,Middle East and North Africa,2019,4.48253727
+1248,Latin America and Caribbeans,2006,6.127988338
+1249,Latin America and Caribbeans,2007,6.894139767
+1250,Latin America and Caribbeans,2008,6.930903435
+1251,Latin America and Caribbeans,2009,7.033740044
+1252,Latin America and Caribbeans,2010,7.321467399999999
+1253,Latin America and Caribbeans,2011,7.24808073
+1254,Latin America and Caribbeans,2012,6.859835625
+1255,Latin America and Caribbeans,2013,6.86648035
+1256,Latin America and Caribbeans,2014,6.631171227
+1257,Latin America and Caribbeans,2015,6.605550289
+1258,Latin America and Caribbeans,2016,6.1176381110000015
+1259,Latin America and Caribbeans,2017,6.5676589010000015
+1260,Latin America and Caribbeans,2018,6.281434059
+1261,Latin America and Caribbeans,2019,6.085955143
+1262,Latin America and Caribbeans,2006,4.730082035
+1263,Latin America and Caribbeans,2007,5.272461414
+1264,Latin America and Caribbeans,2008,5.570061684
+1265,Latin America and Caribbeans,2009,5.576147079
+1266,Latin America and Caribbeans,2010,5.841174126
+1267,Latin America and Caribbeans,2011,5.677080631
+1268,Latin America and Caribbeans,2012,5.8200583460000015
+1269,Latin America and Caribbeans,2013,5.936240673
+1270,Latin America and Caribbeans,2014,5.118641853
+1271,Latin America and Caribbeans,2015,5.559724331
+1272,Latin America and Caribbeans,2016,5.8013801570000005
+1273,Latin America and Caribbeans,2017,5.71329546
+1274,Latin America and Caribbeans,2019,5.652625561
+1275,Latin America and Caribbeans,2006,4.810845375
+1276,Latin America and Caribbeans,2007,5.213962078
+1277,Latin America and Caribbeans,2008,5.1292309760000006
+1278,Latin America and Caribbeans,2009,5.518846989
+1279,Latin America and Caribbeans,2010,5.612785338999998
+1280,Latin America and Caribbeans,2011,5.892457485
+1281,Latin America and Caribbeans,2012,5.824557304
+1282,Latin America and Caribbeans,2013,5.782557487
+1283,Latin America and Caribbeans,2014,5.865815639
+1284,Latin America and Caribbeans,2015,5.577263355
+1285,Latin America and Caribbeans,2016,5.7006287570000005
+1286,Latin America and Caribbeans,2017,5.710936546
+1287,Latin America and Caribbeans,2018,5.679661274
+1288,Latin America and Caribbeans,2019,5.999381542
+1289,Southeast Asia,2006,4.669945717
+1290,Southeast Asia,2007,5.073562145
+1291,Southeast Asia,2008,4.589065075
+1292,Southeast Asia,2009,4.879910946
+1293,Southeast Asia,2010,4.941514015
+1294,Southeast Asia,2011,4.9939565660000005
+1295,Southeast Asia,2012,5.0019650460000005
+1296,Southeast Asia,2013,4.976925373
+1297,Southeast Asia,2014,5.312550068
+1298,Southeast Asia,2015,5.547489166
+1299,Southeast Asia,2016,5.430832862999999
+1300,Southeast Asia,2017,5.594270229
+1301,Southeast Asia,2018,5.869172572999999
+1302,Southeast Asia,2019,6.267745017999999
+1303,Central and Eastern Europe,2007,5.886137486
+1304,Central and Eastern Europe,2009,5.772027493
+1305,Central and Eastern Europe,2010,5.887029648
+1306,Central and Eastern Europe,2011,5.646204947999999
+1307,Central and Eastern Europe,2012,5.87593174
+1308,Central and Eastern Europe,2013,5.746131897000001
+1309,Central and Eastern Europe,2014,5.750282287999999
+1310,Central and Eastern Europe,2015,6.007021904
+1311,Central and Eastern Europe,2016,6.162076473
+1312,Central and Eastern Europe,2017,6.201268196
+1313,Central and Eastern Europe,2018,6.111485004
+1314,Central and Eastern Europe,2019,6.24209404
+1315,Western Europe,2006,5.405246257999999
+1316,Western Europe,2008,5.716966629
+1317,Western Europe,2010,5.094525814
+1318,Western Europe,2011,5.219997883
+1319,Western Europe,2012,4.9939622880000005
+1320,Western Europe,2013,5.157688141
+1321,Western Europe,2014,5.12691164
+1322,Western Europe,2015,5.080866337
+1323,Western Europe,2016,5.4466371539999985
+1324,Western Europe,2017,5.711499214
+1325,Western Europe,2018,5.919822693
+1326,Western Europe,2019,6.095473289
+1327,Middle East and North Africa,2009,6.417824268
+1328,Middle East and North Africa,2010,6.849652767
+1329,Middle East and North Africa,2011,6.591604232999999
+1330,Middle East and North Africa,2012,6.611298561
+1331,Middle East and North Africa,2015,6.3745293620000005
+1332,Central and Eastern Europe,2007,5.393723965
+1333,Central and Eastern Europe,2009,5.367565155
+1334,Central and Eastern Europe,2010,4.909165859
+1335,Central and Eastern Europe,2011,5.02275753
+1336,Central and Eastern Europe,2012,5.166874886
+1337,Central and Eastern Europe,2013,5.081584454
+1338,Central and Eastern Europe,2014,5.726893425
+1339,Central and Eastern Europe,2015,5.777491092999999
+1340,Central and Eastern Europe,2016,5.96887064
+1341,Central and Eastern Europe,2017,6.089904785
+1342,Central and Eastern Europe,2018,6.150878906
+1343,Central and Eastern Europe,2019,6.1299424170000005
+1344,Commonwealth of Independent States,2006,4.963742733
+1345,Commonwealth of Independent States,2007,5.222867489
+1346,Commonwealth of Independent States,2008,5.61875391
+1347,Commonwealth of Independent States,2009,5.158227921
+1348,Commonwealth of Independent States,2010,5.384773254
+1349,Commonwealth of Independent States,2011,5.3887662889999985
+1350,Commonwealth of Independent States,2012,5.620735645
+1351,Commonwealth of Independent States,2013,5.537177562999999
+1352,Commonwealth of Independent States,2014,6.036976814
+1353,Commonwealth of Independent States,2015,5.995538712
+1354,Commonwealth of Independent States,2016,5.85494566
+1355,Commonwealth of Independent States,2017,5.578742981
+1356,Commonwealth of Independent States,2018,5.513500214
+1357,Sub-Saharan Africa,2006,4.21470356
+1358,Sub-Saharan Africa,2008,4.362988949
+1359,Sub-Saharan Africa,2009,4.029761791
+1360,Sub-Saharan Africa,2011,4.0974359510000005
+1361,Sub-Saharan Africa,2012,3.333047867
+1362,Sub-Saharan Africa,2013,3.466387749
+1363,Sub-Saharan Africa,2014,3.595678329
+1364,Sub-Saharan Africa,2015,3.483108997
+1365,Sub-Saharan Africa,2016,3.332989931
+1366,Sub-Saharan Africa,2017,3.10837388
+1367,Sub-Saharan Africa,2018,3.5610466
+1368,Sub-Saharan Africa,2019,3.268152237
+1369,Middle East and North Africa,2007,7.266694069
+1370,Middle East and North Africa,2008,6.811370373
+1371,Middle East and North Africa,2009,6.14759016
+1372,Middle East and North Africa,2010,6.307098389
+1373,Middle East and North Africa,2011,6.699789524
+1374,Middle East and North Africa,2012,6.396359444
+1375,Middle East and North Africa,2013,6.495132923
+1376,Middle East and North Africa,2014,6.27837801
+1377,Middle East and North Africa,2015,6.3454918860000005
+1378,Middle East and North Africa,2016,6.473921299
+1379,Middle East and North Africa,2017,6.2942824360000005
+1380,Middle East and North Africa,2018,6.356393337
+1381,Middle East and North Africa,2019,6.5612473489999985
+1382,Sub-Saharan Africa,2006,4.417352676
+1383,Sub-Saharan Africa,2007,4.679986953999999
+1384,Sub-Saharan Africa,2008,4.683499813
+1385,Sub-Saharan Africa,2009,4.335114002
+1386,Sub-Saharan Africa,2010,4.372156143
+1387,Sub-Saharan Africa,2011,3.834201574
+1388,Sub-Saharan Africa,2012,3.668736935
+1389,Sub-Saharan Africa,2013,3.647367001
+1390,Sub-Saharan Africa,2014,4.394777298
+1391,Sub-Saharan Africa,2015,4.61700058
+1392,Sub-Saharan Africa,2016,4.59453392
+1393,Sub-Saharan Africa,2017,4.683024883
+1394,Sub-Saharan Africa,2018,4.769377232
+1395,Sub-Saharan Africa,2019,5.488736629
+1396,Central and Eastern Europe,2007,4.750383854
+1397,Central and Eastern Europe,2009,4.380311966
+1398,Central and Eastern Europe,2010,4.461304188
+1399,Central and Eastern Europe,2011,4.815186501
+1400,Central and Eastern Europe,2012,5.154521942
+1401,Central and Eastern Europe,2013,5.101840496
+1402,Central and Eastern Europe,2014,5.112728596
+1403,Central and Eastern Europe,2015,5.317685127
+1404,Central and Eastern Europe,2016,5.752754688
+1405,Central and Eastern Europe,2017,5.122031212
+1406,Central and Eastern Europe,2018,5.936493397
+1407,Central and Eastern Europe,2019,6.2414073939999986
+1408,Sub-Saharan Africa,2006,3.628185034
+1409,Sub-Saharan Africa,2007,3.585127354
+1410,Sub-Saharan Africa,2008,2.997251034
+1411,Sub-Saharan Africa,2010,4.133955956
+1412,Sub-Saharan Africa,2011,4.501643658
+1413,Sub-Saharan Africa,2013,4.514291286000001
+1414,Sub-Saharan Africa,2014,4.499970436
+1415,Sub-Saharan Africa,2015,4.908617973
+1416,Sub-Saharan Africa,2016,4.732953072
+1417,Sub-Saharan Africa,2017,4.0895624160000015
+1418,Sub-Saharan Africa,2018,4.305683136
+1419,Sub-Saharan Africa,2019,3.447381496
+1420,Southeast Asia,2006,6.462702751
+1421,Southeast Asia,2007,6.833754539
+1422,Southeast Asia,2008,6.6419568060000005
+1423,Southeast Asia,2009,6.144676685
+1424,Southeast Asia,2010,6.531401634
+1425,Southeast Asia,2011,6.561041832000001
+1426,Southeast Asia,2013,6.53320694
+1427,Southeast Asia,2014,7.062364578
+1428,Southeast Asia,2015,6.619524956
+1429,Southeast Asia,2016,6.033480644
+1430,Southeast Asia,2017,6.3784379960000015
+1431,Southeast Asia,2018,6.374564171
+1432,Southeast Asia,2019,6.378359795
+1433,Central and Eastern Europe,2006,5.264676571
+1434,Central and Eastern Europe,2010,6.052223206
+1435,Central and Eastern Europe,2011,5.945048332000001
+1436,Central and Eastern Europe,2012,5.91105938
+1437,Central and Eastern Europe,2013,5.936527252
+1438,Central and Eastern Europe,2014,6.1388731
+1439,Central and Eastern Europe,2015,6.162004471
+1440,Central and Eastern Europe,2016,5.993163109
+1441,Central and Eastern Europe,2017,6.365509033
+1442,Central and Eastern Europe,2018,6.23511076
+1443,Central and Eastern Europe,2019,6.2434287070000005
+1444,Central and Eastern Europe,2006,5.811264515
+1445,Central and Eastern Europe,2009,5.830160618
+1446,Central and Eastern Europe,2010,6.082555294
+1447,Central and Eastern Europe,2011,6.035964012000001
+1448,Central and Eastern Europe,2012,6.062891006
+1449,Central and Eastern Europe,2013,5.974888802000001
+1450,Central and Eastern Europe,2014,5.678395271
+1451,Central and Eastern Europe,2015,5.740642071
+1452,Central and Eastern Europe,2016,5.936821461
+1453,Central and Eastern Europe,2017,6.1668376920000005
+1454,Central and Eastern Europe,2018,6.249419212
+1455,Central and Eastern Europe,2019,6.665273666
+1456,Sub-Saharan Africa,2014,5.528272629
+1457,Sub-Saharan Africa,2015,5.353644848
+1458,Sub-Saharan Africa,2016,4.6679410930000005
+1459,Sub-Saharan Africa,2009,4.991399765
+1460,Sub-Saharan Africa,2010,4.657363415
+1461,Sub-Saharan Africa,2011,4.930571556
+1462,Sub-Saharan Africa,2012,5.057314396000001
+1463,Sub-Saharan Africa,2006,5.083986759
+1464,Sub-Saharan Africa,2007,5.204454422
+1465,Sub-Saharan Africa,2008,5.346306801
+1466,Sub-Saharan Africa,2009,5.218430996
+1467,Sub-Saharan Africa,2010,4.652428627
+1468,Sub-Saharan Africa,2011,4.930511475
+1469,Sub-Saharan Africa,2012,5.133887768
+1470,Sub-Saharan Africa,2013,3.660727262
+1471,Sub-Saharan Africa,2014,4.828456402
+1472,Sub-Saharan Africa,2015,4.887325764
+1473,Sub-Saharan Africa,2016,4.769739628
+1474,Sub-Saharan Africa,2017,4.513655186
+1475,Sub-Saharan Africa,2018,4.8839221
+1476,Sub-Saharan Africa,2019,5.034863472
+1477,East Asia,2006,5.332177639
+1478,East Asia,2007,5.76727581
+1479,East Asia,2008,5.389624596
+1480,East Asia,2009,5.647689819
+1481,East Asia,2010,6.116024494
+1482,East Asia,2011,6.9465990070000005
+1483,East Asia,2012,6.0032868389999985
+1484,East Asia,2013,5.958809852999999
+1485,East Asia,2014,5.801325321
+1486,East Asia,2015,5.7802114489999985
+1487,East Asia,2016,5.970564365
+1488,East Asia,2017,5.8738870620000005
+1489,East Asia,2018,5.840231419
+1490,East Asia,2019,5.902816772
+1491,Sub-Saharan Africa,2014,3.831992388
+1492,Sub-Saharan Africa,2015,4.070771217
+1493,Sub-Saharan Africa,2016,2.888112307
+1494,Sub-Saharan Africa,2017,2.8166224960000004
+1495,Western Europe,2007,6.994614601
+1496,Western Europe,2008,7.294472693999999
+1497,Western Europe,2009,6.198601246
+1498,Western Europe,2010,6.188262462999999
+1499,Western Europe,2011,6.518249035
+1500,Western Europe,2012,6.290690422000001
+1501,Western Europe,2013,6.150027275
+1502,Western Europe,2014,6.456477642
+1503,Western Europe,2015,6.380663395
+1504,Western Europe,2016,6.318612099
+1505,Western Europe,2017,6.230173111
+1506,Western Europe,2018,6.513370991
+1507,Western Europe,2019,6.457449436
+1508,South Asia,2006,4.3446106910000015
+1509,South Asia,2007,4.414805412
+1510,South Asia,2008,4.430846214
+1511,South Asia,2009,4.212026596
+1512,South Asia,2010,3.976905107
+1513,South Asia,2011,4.180569172
+1514,South Asia,2012,4.224593163
+1515,South Asia,2013,4.364694118
+1516,South Asia,2014,4.267932892
+1517,South Asia,2015,4.611606598
+1518,South Asia,2017,4.330945492
+1519,South Asia,2018,4.435023785
+1520,South Asia,2019,4.213299274
+1521,Sub-Saharan Africa,2009,4.454917431
+1522,Sub-Saharan Africa,2010,4.435159683
+1523,Sub-Saharan Africa,2011,4.314456463
+1524,Sub-Saharan Africa,2012,4.550499439
+1525,Sub-Saharan Africa,2014,4.138672829
+1526,Latin America and Caribbeans,2012,6.269286632999999
+1527,Sub-Saharan Africa,2011,4.867091179
+1528,Sub-Saharan Africa,2018,4.211565018
+1529,Sub-Saharan Africa,2019,4.396114826
+1530,Western Europe,2007,7.241362572000001
+1531,Western Europe,2008,7.51599741
+1532,Western Europe,2009,7.265977382999999
+1533,Western Europe,2010,7.496018887000001
+1534,Western Europe,2011,7.382232189
+1535,Western Europe,2012,7.560147762000001
+1536,Western Europe,2013,7.434010506
+1537,Western Europe,2014,7.239147663
+1538,Western Europe,2015,7.28892231
+1539,Western Europe,2016,7.368744372999999
+1540,Western Europe,2017,7.286804676
+1541,Western Europe,2018,7.374792098999999
+1542,Western Europe,2019,7.398092747000001
+1543,Western Europe,2006,7.473252773
+1544,Western Europe,2009,7.5245208739999985
+1545,Western Europe,2012,7.776208877999999
+1546,Western Europe,2014,7.492803574
+1547,Western Europe,2015,7.5721368789999985
+1548,Western Europe,2016,7.458519936
+1549,Western Europe,2017,7.473593235
+1550,Western Europe,2018,7.508586884
+1551,Western Europe,2019,7.69422102
+1552,Middle East and North Africa,2008,5.32333231
+1553,Middle East and North Africa,2009,4.9789705280000005
+1554,Middle East and North Africa,2010,4.464707851
+1555,Middle East and North Africa,2011,4.0378894810000014
+1556,Middle East and North Africa,2012,3.164491177
+1557,Middle East and North Africa,2013,2.687552929
+1558,Middle East and North Africa,2015,3.46191287
+1559,East Asia,2006,6.189050198
+1560,East Asia,2008,5.547682285
+1561,East Asia,2010,6.228530884
+1562,East Asia,2011,6.308915138
+1563,East Asia,2012,6.125916958
+1564,East Asia,2013,6.340344429
+1565,East Asia,2014,6.36349678
+1566,East Asia,2015,6.4500880239999985
+1567,East Asia,2016,6.512850761
+1568,East Asia,2017,6.359450817000001
+1569,East Asia,2018,6.4670047760000005
+1570,East Asia,2019,6.537089825
+1571,Commonwealth of Independent States,2006,4.613099098
+1572,Commonwealth of Independent States,2007,4.431608677
+1573,Commonwealth of Independent States,2008,5.063986778
+1574,Commonwealth of Independent States,2009,4.575174809
+1575,Commonwealth of Independent States,2010,4.380636215
+1576,Commonwealth of Independent States,2011,4.262671471
+1577,Commonwealth of Independent States,2012,4.496571541000001
+1578,Commonwealth of Independent States,2013,4.966521263
+1579,Commonwealth of Independent States,2014,4.896157742
+1580,Commonwealth of Independent States,2015,5.124210835
+1581,Commonwealth of Independent States,2016,5.103721142
+1582,Commonwealth of Independent States,2017,5.829234122999999
+1583,Commonwealth of Independent States,2018,5.497468948
+1584,Commonwealth of Independent States,2019,5.464015484
+1585,Sub-Saharan Africa,2006,3.922484159
+1586,Sub-Saharan Africa,2007,4.317949772
+1587,Sub-Saharan Africa,2008,4.384741783
+1588,Sub-Saharan Africa,2009,3.4075078960000003
+1589,Sub-Saharan Africa,2010,3.2291290760000004
+1590,Sub-Saharan Africa,2011,4.073562145
+1591,Sub-Saharan Africa,2012,4.0068974489999984
+1592,Sub-Saharan Africa,2013,3.852394819
+1593,Sub-Saharan Africa,2014,3.483278513
+1594,Sub-Saharan Africa,2015,3.660597324
+1595,Sub-Saharan Africa,2016,2.90273428
+1596,Sub-Saharan Africa,2017,3.347121239
+1597,Sub-Saharan Africa,2018,3.445023298
+1598,Sub-Saharan Africa,2019,3.640154839
+1599,Southeast Asia,2006,5.88543272
+1600,Southeast Asia,2007,5.783891201
+1601,Southeast Asia,2008,5.6364712720000005
+1602,Southeast Asia,2009,5.475645065
+1603,Southeast Asia,2010,6.216702937999999
+1604,Southeast Asia,2011,6.663609028
+1605,Southeast Asia,2012,6.300235271
+1606,Southeast Asia,2013,6.231024742000001
+1607,Southeast Asia,2014,6.985463619
+1608,Southeast Asia,2015,6.201762676
+1609,Southeast Asia,2016,6.07363987
+1610,Southeast Asia,2017,5.9388952260000005
+1611,Southeast Asia,2018,6.0115618710000005
+1612,Southeast Asia,2019,6.02215147
+1613,Sub-Saharan Africa,2006,3.202429295
+1614,Sub-Saharan Africa,2008,2.807855129
+1615,Sub-Saharan Africa,2011,2.936220884
+1616,Sub-Saharan Africa,2014,2.83895874
+1617,Sub-Saharan Africa,2015,3.768301964
+1618,Sub-Saharan Africa,2016,3.878578424
+1619,Sub-Saharan Africa,2017,4.360805035
+1620,Sub-Saharan Africa,2018,4.022894859
+1621,Sub-Saharan Africa,2019,4.179493904
+1622,Latin America and Caribbeans,2006,5.832188606
+1623,Latin America and Caribbeans,2008,6.696444035
+1624,Latin America and Caribbeans,2011,6.518745899
+1625,Latin America and Caribbeans,2013,6.167706966
+1626,Latin America and Caribbeans,2017,6.191859722
+1627,Middle East and North Africa,2009,5.025470257
+1628,Middle East and North Africa,2010,5.130520821
+1629,Middle East and North Africa,2011,4.87648201
+1630,Middle East and North Africa,2012,4.463531017
+1631,Middle East and North Africa,2013,5.245604992
+1632,Middle East and North Africa,2014,4.763594627
+1633,Middle East and North Africa,2015,5.131611824
+1634,Middle East and North Africa,2016,4.521453381000001
+1635,Middle East and North Africa,2017,4.124342918
+1636,Middle East and North Africa,2018,4.741132259
+1637,Middle East and North Africa,2019,4.315479755
+1638,Middle East and North Africa,2007,5.623471737000001
+1639,Middle East and North Africa,2008,5.118231773
+1640,Middle East and North Africa,2009,5.212841511000001
+1641,Middle East and North Africa,2010,5.490347385
+1642,Middle East and North Africa,2011,5.271944046000001
+1643,Middle East and North Africa,2012,5.309076309
+1644,Middle East and North Africa,2013,4.888177395
+1645,Middle East and North Africa,2014,5.5797944070000005
+1646,Middle East and North Africa,2015,5.514465332
+1647,Middle East and North Africa,2016,5.326221943
+1648,Middle East and North Africa,2017,5.607262135
+1649,Middle East and North Africa,2018,5.185689449
+1650,Middle East and North Africa,2019,4.87207365
+1651,Commonwealth of Independent States,2009,6.5677132610000015
+1652,Commonwealth of Independent States,2011,5.791754723
+1653,Commonwealth of Independent States,2012,5.463827133
+1654,Commonwealth of Independent States,2013,5.391762732999999
+1655,Commonwealth of Independent States,2014,5.787379265
+1656,Commonwealth of Independent States,2015,5.791460037
+1657,Commonwealth of Independent States,2016,5.887051582000001
+1658,Commonwealth of Independent States,2017,5.229148865
+1659,Commonwealth of Independent States,2018,4.620601654
+1660,Commonwealth of Independent States,2019,5.474299908
+1661,Sub-Saharan Africa,2006,3.733583927
+1662,Sub-Saharan Africa,2007,4.45583868
+1663,Sub-Saharan Africa,2008,4.568619251
+1664,Sub-Saharan Africa,2009,4.611985683
+1665,Sub-Saharan Africa,2010,4.1928820610000015
+1666,Sub-Saharan Africa,2011,4.826001167
+1667,Sub-Saharan Africa,2012,4.309237957
+1668,Sub-Saharan Africa,2013,3.709578753
+1669,Sub-Saharan Africa,2014,3.769919157
+1670,Sub-Saharan Africa,2015,4.237686634
+1671,Sub-Saharan Africa,2016,4.233261108
+1672,Sub-Saharan Africa,2017,4.000516891
+1673,Sub-Saharan Africa,2018,4.321714878
+1674,Sub-Saharan Africa,2019,4.948051453
+1675,Commonwealth of Independent States,2006,4.803954124
+1676,Commonwealth of Independent States,2007,5.25218153
+1677,Commonwealth of Independent States,2008,5.172380447
+1678,Commonwealth of Independent States,2009,5.1656394
+1679,Commonwealth of Independent States,2010,5.057561398
+1680,Commonwealth of Independent States,2011,5.083132743999999
+1681,Commonwealth of Independent States,2012,5.030342102
+1682,Commonwealth of Independent States,2013,4.710802555
+1683,Commonwealth of Independent States,2014,4.2973299030000005
+1684,Commonwealth of Independent States,2015,3.964542866
+1685,Commonwealth of Independent States,2016,4.0286903380000005
+1686,Commonwealth of Independent States,2017,4.311067104
+1687,Commonwealth of Independent States,2018,4.661909103
+1688,Commonwealth of Independent States,2019,4.701762199
+1689,Middle East and North Africa,2006,6.734221935
+1690,Middle East and North Africa,2009,6.866062641
+1691,Middle East and North Africa,2010,7.097455502000001
+1692,Middle East and North Africa,2011,7.118701457999999
+1693,Middle East and North Africa,2012,7.217766762
+1694,Middle East and North Africa,2013,6.620951176
+1695,Middle East and North Africa,2014,6.539854527
+1696,Middle East and North Africa,2015,6.568397522000001
+1697,Middle East and North Africa,2016,6.83095026
+1698,Middle East and North Africa,2017,7.039419651
+1699,Middle East and North Africa,2018,6.603743552999999
+1700,Middle East and North Africa,2019,6.710782527999999
+1701,Western Europe,2007,6.801930904
+1702,Western Europe,2008,6.9864635470000005
+1703,Western Europe,2009,6.90654707
+1704,Western Europe,2010,7.0293641089999985
+1705,Western Europe,2011,6.8692488670000005
+1706,Western Europe,2012,6.880784035
+1707,Western Europe,2013,6.918055057999999
+1708,Western Europe,2014,6.758147717000001
+1709,Western Europe,2015,6.515445232
+1710,Western Europe,2016,6.8242835999999985
+1711,Western Europe,2017,7.103273392
+1712,Western Europe,2018,7.233445167999999
+1713,Western Europe,2019,7.157151222
+1714,North America and ANZ,2006,7.18179369
+1715,North America and ANZ,2007,7.512687682999999
+1716,North America and ANZ,2008,7.280385971
+1717,North America and ANZ,2009,7.158032417
+1718,North America and ANZ,2010,7.16361618
+1719,North America and ANZ,2011,7.115138531
+1720,North America and ANZ,2012,7.026226997
+1721,North America and ANZ,2013,7.249285221
+1722,North America and ANZ,2014,7.151114464
+1723,North America and ANZ,2015,6.863946915
+1724,North America and ANZ,2016,6.803599834
+1725,North America and ANZ,2017,6.991759299999999
+1726,North America and ANZ,2018,6.882684707999999
+1727,North America and ANZ,2019,6.943701267000001
+1728,Latin America and Caribbeans,2006,5.785868168
+1729,Latin America and Caribbeans,2007,5.693945885
+1730,Latin America and Caribbeans,2008,5.663869857999999
+1731,Latin America and Caribbeans,2009,6.296222687
+1732,Latin America and Caribbeans,2010,6.062010765
+1733,Latin America and Caribbeans,2011,6.554047108
+1734,Latin America and Caribbeans,2012,6.449728489
+1735,Latin America and Caribbeans,2013,6.444464684
+1736,Latin America and Caribbeans,2014,6.5614438060000015
+1737,Latin America and Caribbeans,2015,6.628080367999999
+1738,Latin America and Caribbeans,2016,6.171485424
+1739,Latin America and Caribbeans,2017,6.336009979
+1740,Latin America and Caribbeans,2018,6.371714592000001
+1741,Latin America and Caribbeans,2019,6.6003370289999985
+1742,Commonwealth of Independent States,2006,5.232322216
+1743,Commonwealth of Independent States,2008,5.311368465
+1744,Commonwealth of Independent States,2009,5.26072073
+1745,Commonwealth of Independent States,2010,5.095342158999999
+1746,Commonwealth of Independent States,2011,5.738744259
+1747,Commonwealth of Independent States,2012,6.019331932
+1748,Commonwealth of Independent States,2013,5.939986229
+1749,Commonwealth of Independent States,2014,6.049212456
+1750,Commonwealth of Independent States,2015,5.972364426
+1751,Commonwealth of Independent States,2016,5.892539024
+1752,Commonwealth of Independent States,2017,6.421447754
+1753,Commonwealth of Independent States,2018,6.205460072
+1754,Commonwealth of Independent States,2019,6.1540493970000005
+1755,Latin America and Caribbeans,2006,6.525146007999999
+1756,Latin America and Caribbeans,2008,6.257771492000001
+1757,Latin America and Caribbeans,2009,7.188803196
+1758,Latin America and Caribbeans,2010,7.47845459
+1759,Latin America and Caribbeans,2011,6.579789162000001
+1760,Latin America and Caribbeans,2012,7.066577435
+1761,Latin America and Caribbeans,2013,6.552796364
+1762,Latin America and Caribbeans,2014,6.136096478
+1763,Latin America and Caribbeans,2015,5.5688004489999985
+1764,Latin America and Caribbeans,2016,4.041114807
+1765,Latin America and Caribbeans,2017,5.070750713
+1766,Latin America and Caribbeans,2018,5.005663395
+1767,Latin America and Caribbeans,2019,5.080803394
+1768,Southeast Asia,2006,5.293659687
+1769,Southeast Asia,2007,5.421687603
+1770,Southeast Asia,2008,5.480425358
+1771,Southeast Asia,2009,5.304264545
+1772,Southeast Asia,2010,5.295780659
+1773,Southeast Asia,2011,5.767344475
+1774,Southeast Asia,2012,5.53456974
+1775,Southeast Asia,2013,5.022698879
+1776,Southeast Asia,2014,5.084923267
+1777,Southeast Asia,2015,5.076315403
+1778,Southeast Asia,2016,5.0622673030000005
+1779,Southeast Asia,2017,5.175278664
+1780,Southeast Asia,2018,5.295547009
+1781,Southeast Asia,2019,5.4674510960000005
+1782,Middle East and North Africa,2007,4.477132796999999
+1783,Middle East and North Africa,2009,4.809258938
+1784,Middle East and North Africa,2010,4.35031271
+1785,Middle East and North Africa,2011,3.746255636
+1786,Middle East and North Africa,2012,4.0606007580000005
+1787,Middle East and North Africa,2013,4.217678547
+1788,Middle East and North Africa,2014,3.967957973
+1789,Middle East and North Africa,2015,2.982673883
+1790,Middle East and North Africa,2016,3.825630903
+1791,Middle East and North Africa,2017,3.2535600660000004
+1792,Middle East and North Africa,2018,3.057513952
+1793,Middle East and North Africa,2019,4.1969127660000005
+1794,Sub-Saharan Africa,2006,4.824454783999999
+1795,Sub-Saharan Africa,2007,3.998293161
+1796,Sub-Saharan Africa,2008,4.7302632330000005
+1797,Sub-Saharan Africa,2009,5.260360718
+1798,Sub-Saharan Africa,2011,4.99911356
+1799,Sub-Saharan Africa,2012,5.013374805
+1800,Sub-Saharan Africa,2013,5.243995667
+1801,Sub-Saharan Africa,2014,4.345837116
+1802,Sub-Saharan Africa,2015,4.843164444
+1803,Sub-Saharan Africa,2016,4.3475437160000014
+1804,Sub-Saharan Africa,2017,3.932777405
+1805,Sub-Saharan Africa,2018,4.041488171
+1806,Sub-Saharan Africa,2019,3.306796551
+1807,Sub-Saharan Africa,2006,3.826268435
+1808,Sub-Saharan Africa,2007,3.280246735
+1809,Sub-Saharan Africa,2008,3.1742637160000005
+1810,Sub-Saharan Africa,2009,4.055914402
+1811,Sub-Saharan Africa,2010,4.681569576
+1812,Sub-Saharan Africa,2011,4.845641613
+1813,Sub-Saharan Africa,2012,4.955100536000001
+1814,Sub-Saharan Africa,2013,4.6901879310000005
+1815,Sub-Saharan Africa,2014,4.184450626
+1816,Sub-Saharan Africa,2015,3.70319128
+1817,Sub-Saharan Africa,2016,3.7354002
+1818,Sub-Saharan Africa,2017,3.63830018
+1819,Sub-Saharan Africa,2018,3.616479874
+1820,Sub-Saharan Africa,2019,2.693523169
